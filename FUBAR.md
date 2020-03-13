@@ -1,0 +1,26 @@
+jokes:  
+why did the chicken cross the road?  
+because it would be a fowl proceeding.  
+
+Joke:  
+Why did the chicken cross the road?   
+to get to the other side.  
+
+
+
+more info
+other lines of code that are bad
+just wanting to make issues
+that's literally it
+wow, so so many issues 
+
+
+Sherlock, what do they call primary school in America?
+Elementary, my dear Watson.
+
+What do you get when you cross the Atlantic with the Titanic?
+About half-way.
+
+Why did Sherlock Holmes go to the mexican restaurant?
+He was looking for a good case-idea.
+>>>>>>> c552372c90476bb4d3fabf52ed6f6847e83831b7
