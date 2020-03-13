@@ -26,4 +26,11 @@ About half-way.
 Why did Sherlock Holmes go to the mexican restaurant?
 He was looking for a good case-idea.
 
-Can't touch this. 
+
+Can't touch this.
+
+
+Vision board:
+method(It) is a good idea and we will succeed as a group by doing better than the other groups.
+As a team, we, team mongoose are powerful, smart people.
+
